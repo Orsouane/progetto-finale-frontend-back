@@ -1,0 +1,823 @@
+[
+  {
+    "id": 1,
+    "title": "Halo",
+    "slug": "halo",
+    "category": "FPS",
+    "releaseYear": 2019,
+    "developer": "Bungie",
+    "rating": "9.5 / 10",
+    "imagesExtra": [
+      "/images/halo.webp",
+      "/images/halo_1.webp",
+      "/images/halo_2.webp",
+      "/images/halo_3.webp"
+    ],
+    "price": "€ 39.99",
+    "description": "Lead an elite Spartan in a sci-fi war, battling alien forces, uncovering secrets, and saving humanity with advanced weapons and tactics.",
+    "systemRequirements": [
+      "Windows 7",
+      "AMD Phenom II X4 960T / Intel i3550",
+      "8 GB RAM",
+      "NVIDIA GTX 970"
+    ],
+    "tags": ["FPS", "Sci-Fi", "Shooter"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/976730/Halo_Combat_Evolved_Anniversary/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Call of Duty MW2",
+
+    "slug": "call-of-duty-MW2",
+
+    "category": "FPS",
+    "releaseYear": 2009,
+    "developer": "Infinity Ward",
+    "rating": "8.6 / 10",
+    "imagesExtra": [
+      "/images/Call_Of_Duty.webp",
+      "/images/cod_1.webp",
+      "/images/cod_2.webp",
+      "/images/cod_3.webp"
+    ],
+    "price": "€ 25.17",
+    "description": "Join elite soldiers in a modern warfare battle, completing intense missions with advanced weapons and tactical team play.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i3",
+      "4 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["FPS", "Multiplayer", "Shooter"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/10180/Call_of_Duty/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Zelda",
+
+    "slug": "zelda",
+
+    "category": "Adventure",
+    "releaseYear": 1998,
+    "developer": "Nintendo",
+    "rating": "9.8 / 10",
+    "imagesExtra": [
+      "/images/zelda.webp",
+      "/images/zelda_1.webp",
+      "/images/zelda_2.webp",
+      "/images/zelda_3.webp"
+    ],
+    "price": "€ 110.44",
+    "description": "Explore a vast fantasy world, solve puzzles, and battle enemies to rescue the kingdom in this timeless action-adventure.",
+    "systemRequirements": [
+      "Nintendo Switch",
+      "Custom Nvidia Tegra",
+      "4 GB RAM",
+      "Integrated"
+    ],
+    "tags": ["Adventure", "Fantasy", "Exploration"],
+    "links": [
+      {
+        "platform": "Nintendo",
+        "url": "https://www.nintendo.com/it-it/Giochi/Nintendo-64/The-Legend-of-Zelda-Ocarina-of-Time-269536.html?srsltid=AfmBOooTfC-J4Gn_L4qqz9Ha8PNiaSOfqmaTDSx3EniKhxkyjXi5cF5-l"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Assassin’s Creed",
+
+    "slug": "assassin_s-creed",
+
+    "category": "Adventure",
+    "releaseYear": 2008,
+    "developer": "Ubisoft",
+    "rating": "8.9 / 10",
+    "imagesExtra": [
+      "/images/Assassin's_Creed.webp",
+      "/images/ac_1.webp",
+      "/images/ac_2.webp",
+      "/images/ac_3.webp"
+    ],
+    "price": "€ 59.99",
+    "description": "Experience a gripping historical journey as a skilled assassin, blending stealth, parkour, and combat across ancient cities.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "6 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["Adventure", "Stealth", "Action"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/"
+      },
+      {
+        "platform": "Ubisoft",
+        "url": "https://store.ubisoft.com/it/assassin-s-creed-dir-1"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Minecraft",
+
+    "slug": "minecraft",
+
+    "category": "Sandbox",
+    "releaseYear": 2011,
+    "developer": "Mojang",
+    "rating": "9.0 / 10",
+    "imagesExtra": [
+      "/images/Minecraft.webp",
+      "/images/mc_1.webp",
+      "/images/mc_2.webp",
+      "/images/mc_3.webp"
+    ],
+    "price": "€ 3.87",
+    "description": "a sandbox game where you build, explore, and create in infinite worlds.",
+    "systemRequirements": [
+      "Windows 7",
+      "Intel Core i3",
+      "4 GB RAM",
+      "Intel HD Graphics"
+    ],
+    "tags": ["Sandbox", "Building", "Creative"],
+    "links": [
+      {
+        "platform": "PlayStation",
+        "url": "https://store.playstation.com/it-it/product/EP4433-CUSA00744_00-MINECRAFTPS400EU"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://www.minecraft.net/it-it"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Terraria",
+
+    "slug": "terraria",
+
+    "category": "Sandbox",
+    "releaseYear": 2011,
+    "developer": "Re-Logic",
+    "rating": "8.8 / 10",
+    "imagesExtra": [
+      "/images/terraria.webp",
+      "/images/Terraria_1.webp",
+      "/images/Terraria_2.webp",
+      "/images/terraria_3.webp"
+    ],
+    "price": "€ 45.30",
+    "description": "a 2D adventure with construction, exploration, and combat against enemies and bosses.",
+    "systemRequirements": [
+      "Windows XP",
+      "1.6 GHz",
+      "2.5 GB RAM",
+      "Pixel Shader 2.0"
+    ],
+    "tags": ["Sandbox", "2D", "Adventure"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/105600/Terraria/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "GTA V",
+
+    "slug": "gta5",
+
+    "category": "Action",
+    "releaseYear": 2013,
+    "developer": "Rockstar",
+    "rating": "9.7 / 10",
+    "imagesExtra": [
+      "/images/gta_v.webp",
+      "/images/gta5_1.webp",
+      "/images/gta5_2.webp",
+      "/images/gta5_3.webp"
+    ],
+    "price": "€ 12.42",
+    "description": "high-speed action in an open world, with missions, chases, and an exciting storyline.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "8 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["Action", "Open World", "Shooter"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+      },
+      {
+        "platform": "PlayStation Store",
+        "url": "http://store.playstation.com/en-us/product/UP1004-PPSA03420_00-GTAVCROSSGENBUND"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Red Dead 2",
+
+    "slug": "red-dead-2",
+
+    "category": "Action",
+    "releaseYear": 2018,
+    "developer": "Rockstar",
+    "rating": "9.6 / 10",
+    "imagesExtra": [
+      "/images/red_dead_2.webp",
+      "/images/rdr2_1.webp",
+      "/images/rdr2_2.webp",
+      "/images/rdr2_3.webp"
+    ],
+    "price": "€ 35.70",
+    "description": "a breathtaking western adventure with an emotional story, exploration, and action in a vast world.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i7",
+      "12 GB RAM",
+      "NVIDIA GTX 1060"
+    ],
+    "tags": ["Action", "Open World", "Western"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+      },
+      {
+        "platform": "PlayStation Store",
+        "url": "https://store.playstation.com/it-it/product/EP1004-CUSA08519_00-REDEMPTIONFULL02"
+      },
+      {
+        "platform": "Xbox Store",
+        "url": "https://www.microsoft.com/en-us/p/red-dead-redemption-2/bv5ztkt7v22s"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Portal 2",
+
+    "slug": "portal-2",
+
+    "category": "Puzzle",
+    "releaseYear": 2011,
+    "developer": "Valve",
+    "rating": "9.6 / 10",
+    "imagesExtra": [
+      "/images/Portal_2.webp",
+      "/images/portal2_1.webp",
+      "/images/portal2_2.webp",
+      "/images/portal2_3.webp"
+    ],
+    "price": "€ 57.20",
+    "description": "a puzzle game where you solve challenges with portals, combining intelligence and creativity.",
+    "systemRequirements": [
+      "Windows 7",
+      "Intel Core 2 Duo",
+      "4 GB RAM",
+      "NVIDIA 8600 GT"
+    ],
+    "tags": ["Puzzle", "Sci-Fi", "Creative"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/620/Portal_2/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Age of Empires IV",
+
+    "slug": "age-of-empire",
+
+    "category": "Strategy",
+    "releaseYear": 2021,
+    "developer": "Relic Entertainment",
+    "rating": "8.5 / 10",
+    "imagesExtra": [
+      "/images/age.webp",
+      "/images/age1.webp",
+      "/images/age2.webp",
+      "/images/age3.webp"
+    ],
+    "price": "€ 59.99",
+    "description": "Build and command vast medieval armies, manage resources, and conquer rivals in epic real-time strategy battles.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "16 GB RAM",
+      "NVIDIA GTX 970"
+    ],
+    "tags": ["Strategy", "Historical", "Multiplayer"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Overwatch",
+
+    "slug": "overwatch",
+
+    "category": "FPS",
+    "releaseYear": 2016,
+    "developer": "Blizzard",
+    "rating": "8.5 / 10",
+    "imagesExtra": [
+      "/images/Overwatch.webp",
+      "/images/Overwatch_1.webp",
+      "/images/Overwatch_2.webp",
+      "/images/Overwatch_3.webp"
+    ],
+    "price": "€ 29.65",
+    "description": "a first-person team-based shooter with unique heroes, each with special abilities.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i3",
+      "6 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["FPS", "Multiplayer", "Team-based"],
+    "links": [
+      {
+        "platform": "Battle.net",
+        "url": "https://playoverwatch.com/en-us/"
+      },
+      {
+        "platform": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/product/UP0001-CUSA00429_00-OVERWATCH0000000"
+      },
+      {
+        "platform": "Xbox Store",
+        "url": "https://www.microsoft.com/en-us/p/overwatch/bv4k4qv6zx3t"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Doom",
+
+    "slug": "doom",
+
+    "category": "FPS",
+    "releaseYear": 1993,
+    "developer": "id",
+    "rating": "8.8 / 10",
+    "imagesExtra": [
+      "/images/Doom.webp",
+      "/images/doom_1.webp",
+      "/images/doom_2.webp",
+      "/images/doom_3.webp"
+    ],
+    "price": "€ 35.70",
+    "description": "one of the first first-person shooters with fast-paced action and demon-slaying combat.",
+    "systemRequirements": ["Windows 95", "Pentium 90 MHz", "8 MB RAM", "SVGA"],
+    "tags": ["FPS", "Classic", "Shooter"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/2280/DOOM/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "FIFA 25",
+
+    "slug": "fifa-25",
+
+    "category": "Sports",
+    "releaseYear": 2024,
+    "developer": "EA Sports",
+    "rating": "8.9 / 10",
+    "imagesExtra": [
+      "/images/fifa_25.webp",
+      "/images/fifa_25_1.webp",
+      "/images/fifa_25_2.webp",
+      "/images/fifa_25_3.webp"
+    ],
+    "price": "€ 49.99",
+    "description": "Experience realistic soccer gameplay, dynamic teams, and immersive stadium atmospheres in the latest FIFA installment.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "8 GB RAM",
+      "NVIDIA GTX 960"
+    ],
+    "tags": ["Sports", "Soccer", "Multiplayer"],
+    "links": [
+      {
+        "platform": "EA Play",
+        "url": "https://www.ea.com/games/fifa/fifa-25"
+      },
+      {
+        "platform": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/product/UP0001-CUSA00063_00-FIFA25GAME000000"
+      },
+      {
+        "platform": "Xbox Store",
+        "url": "https://www.microsoft.com/en-us/p/fifa-25/bx6fgm7sxr2q"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Witcher 3",
+
+    "slug": "the-witcher-3",
+
+    "category": "RPG",
+    "releaseYear": 2015,
+    "developer": "CD Projekt",
+    "rating": "9.7 / 10",
+    "imagesExtra": [
+      "/images/witcher_3.webp",
+      "/images/witcher3_1.webp",
+      "/images/witcher3_2.webp",
+      "/images/witcher3_3.webp"
+    ],
+    "price": "€ 39.99",
+    "description": "an expansive RPG with deep story, complex characters, and a rich open world.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i7",
+      "16 GB RAM",
+      "NVIDIA GTX 1070"
+    ],
+    "tags": ["RPG", "Open World", "Fantasy"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+      },
+      {
+        "platform": "GOG",
+        "url": "https://www.gog.com/game/the_witcher_3_wild_hunt"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://thewitcher.com/en/witcher3"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Cyberpunk 2077",
+
+    "slug": "cyberpunk-2077",
+
+    "category": "RPG",
+    "releaseYear": 2020,
+    "developer": "CD Projekt",
+    "rating": "7.8 / 10",
+    "imagesExtra": [
+      "/images/Cyberpunk_2077.webp",
+      "/images/cyberpunk_1.webp",
+      "/images/cyberpunk_2.webp",
+      "/images/cyberpunk_3.webp"
+    ],
+    "price": "€ 29.99",
+    "description": "a futuristic RPG with a vast city, branching storylines, and immersive gameplay.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i7",
+      "16 GB RAM",
+      "NVIDIA RTX 2060"
+    ],
+    "tags": ["RPG", "Futuristic", "Open World"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+      },
+      { "platform": "GOG", "url": "https://www.gog.com/game/cyberpunk_2077" },
+      { "platform": "Official Site", "url": "https://www.cyberpunk.net/" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Among Us",
+
+    "slug": "among-us",
+
+    "category": "Casual",
+    "releaseYear": 2018,
+    "developer": "InnerSloth",
+    "rating": "8.0 / 10",
+    "imagesExtra": [
+      "/images/among_us.webp",
+      "/images/among_us_1.webp",
+      "/images/among_us_2.webp",
+      "/images/among_us_3.webp"
+    ],
+    "price": "€ 4.99",
+    "description": "a multiplayer social deduction game where players identify the impostor.",
+    "systemRequirements": ["Windows 7", "1.0 GHz", "1 GB RAM", "Integrated"],
+    "tags": ["Casual", "Multiplayer", "Social"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/945360/Among_Us/"
+      },
+      {
+        "platform": "Epic Games",
+        "url": "https://www.epicgames.com/store/en-US/p/among-us"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://innersloth.com/gameAmongUs.php"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Animal Crossing",
+
+    "slug": "animal-crossing",
+
+    "category": "Simulation",
+    "releaseYear": 2001,
+    "developer": "Nintendo",
+    "rating": "9.3 / 10",
+    "imagesExtra": [
+      "/images/animal_crossing.webp",
+      "/images/animal_crossing_1.webp",
+      "/images/animal_crossing_2.webp",
+      "/images/animal_crossing_3.webp"
+    ],
+    "price": "€ 59.99",
+    "description": "a relaxing life simulation game where you build and interact in a village.",
+    "systemRequirements": [
+      "Nintendo Switch",
+      "Custom Nvidia Tegra",
+      "4 GB RAM",
+      "Integrated"
+    ],
+    "tags": ["Simulation", "Casual", "Life"],
+    "links": [
+      {
+        "platform": "Nintendo",
+        "url": "https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/"
+      },
+      { "platform": "Official Site", "url": "https://animalcrossing.com/" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Stardew Valley",
+
+    "slug": "stardew-valley",
+
+    "category": "Simulation",
+    "releaseYear": 2016,
+    "developer": "ConcernedApe",
+    "rating": "9.1 / 10",
+    "imagesExtra": [
+      "/images/stardewvalley.webp",
+      "/images/stardew1.webp",
+      "/images/stardew2.webp",
+      "/images/stardew3.webp"
+    ],
+    "price": "€ 15.00",
+    "description": "a farming simulation game with exploration, crafting, and social elements.",
+    "systemRequirements": ["Windows 7", "2.0 GHz", "2 GB RAM", "Integrated"],
+    "tags": ["Simulation", "Farming", "Casual"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+      },
+      { "platform": "GOG", "url": "https://www.gog.com/game/stardew_valley" },
+      { "platform": "Official Site", "url": "https://www.stardewvalley.net/" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Fortnite",
+
+    "slug": "fortnite",
+
+    "category": "Battle Royale",
+    "releaseYear": 2017,
+    "developer": "Epic Games",
+    "rating": "8.3 / 10",
+    "imagesExtra": [
+      "/images/fortnite.webp",
+      "/images/fortnite1.webp",
+      "/images/fortnite2.webp",
+      "/images/fortnite3.webp"
+    ],
+    "price": "€ 0",
+    "description": "Battle in a vibrant, ever-evolving world with fast-paced shooting, building, and exciting multiplayer action.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i3",
+      "4 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["Battle Royale", "Multiplayer", "Shooter"],
+    "links": [
+      {
+        "platform": "Epic Games",
+        "url": "https://www.epicgames.com/fortnite/en-US/home"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://www.epicgames.com/fortnite/en-US/home"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Dark Souls",
+
+    "slug": "dark-souls",
+
+    "category": "RPG",
+    "releaseYear": 2011,
+    "developer": "FromSoftware",
+    "rating": "9.4 / 10",
+    "imagesExtra": [
+      "/images/darksouls.webp",
+      "/images/darksouls1.webp",
+      "/images/darksouls2.webp",
+      "/images/darksouls3.webp"
+    ],
+    "price": "€ 29.99",
+    "description": "Explore a dark, challenging world filled with intense combat, intricate lore, and rewarding exploration.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "8 GB RAM",
+      "NVIDIA GTX 760"
+    ],
+    "tags": ["RPG", "Dark Fantasy", "Challenge"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/570940/DARK_SOULS_III/"
+      },
+      { "platform": "GOG", "url": "https://www.gog.com/game/dark_souls_iii" },
+      { "platform": "Official Site", "url": "https://www.darksouls3.com/" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "League of Legends",
+
+    "slug": "league-of-legends",
+
+    "category": "MOBA",
+    "releaseYear": 2009,
+    "developer": "Riot Games",
+    "rating": "8.7 / 10",
+    "imagesExtra": [
+      "/images/league.webp",
+      "/images/lol1.webp",
+      "/images/lol2.webp",
+      "/images/lol3.webp"
+    ],
+    "price": "€ 0",
+    "description": "A highly competitive multiplayer online battle arena featuring strategic depth, intense team coordination, diverse champions, and fast-paced action.",
+    "systemRequirements": ["Windows 7", "2.0 GHz", "4 GB RAM", "DirectX 9"],
+    "tags": ["MOBA", "Multiplayer", "Strategy"],
+    "links": [
+      {
+        "platform": "Official Site",
+        "url": "https://www.leagueoflegends.com/en-us/"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Minecraft Dungeons",
+    "slug": "minecraft-dungeons",
+
+    "category": "Action",
+    "releaseYear": 2020,
+    "developer": "Mojang",
+    "rating": "7.9 / 10",
+    "imagesExtra": [
+      "/images/minecraftdungeons.webp",
+      "/images/mc1.webp",
+      "/images/mc2.webp",
+      "/images/mc3.webp"
+    ],
+    "price": "€ 19.99",
+    "description": "a dungeon crawler spin-off from Minecraft with action and loot.",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "8 GB RAM",
+      "NVIDIA GTX 660"
+    ],
+    "tags": ["Action", "Dungeon Crawler", "Loot"],
+    "links": [
+      {
+        "platform": "Microsoft Store",
+        "url": "https://www.microsoft.com/en-us/p/minecraft-dungeons/bv7f6r7qv2b1"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://www.minecraft.net/en-us/about-dungeons"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Rainbow Six Siege",
+
+    "slug": "rainbow-six-siege",
+
+    "category": "FPS",
+    "releaseYear": 2015,
+    "developer": "Ubisoft",
+    "rating": "8.4 / 10",
+    "imagesExtra": [
+      "/images/rainbowsixsiege.webp",
+      "/images/r61.webp",
+      "/images/r62.webp",
+      "/images/r63.webp"
+    ],
+    "price": "€ 29.99",
+    "description": "A tactical shooter emphasizing teamwork, strategy, destructible environments, and intense close-quarters combat with unique operators..",
+    "systemRequirements": [
+      "Windows 10",
+      "Intel Core i5",
+      "8 GB RAM",
+      "NVIDIA GTX 970"
+    ],
+    "tags": ["FPS", "Tactical", "Multiplayer"],
+    "links": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"
+      },
+      {
+        "platform": "Ubisoft Store",
+        "url": "https://store.ubi.com/us/rainbow-six-siege/5b6ba91fe4b0d9.60839952.html"
+      },
+      {
+        "platform": "Official Site",
+        "url": "https://rainbow6.ubisoft.com/siege/en-us/home/"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Super Mario Odyssey",
+    "slug": "super-mario-odyssey",
+
+    "category": "Platformer",
+    "releaseYear": 2017,
+    "developer": "Nintendo",
+    "rating": "9.7 / 10",
+    "imagesExtra": [
+      "/images/supermarioodyssey.webp",
+      "/images/mario1.webp",
+      "/images/mario2.webp",
+      "/images/mario3.webp"
+    ],
+    "price": "€ 59.99",
+    "description": "a colorful platformer with creative worlds, puzzles, and fun gameplay.",
+    "systemRequirements": [
+      "Nintendo Switch",
+      "Custom Nvidia Tegra",
+      "4 GB RAM",
+      "Integrated"
+    ],
+    "tags": ["Platformer", "Adventure", "Casual"],
+    "links": [
+      {
+        "platform": "Nintendo",
+        "url": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/"
+      },
+      { "platform": "Official Site", "url": "https://supermario.nintendo.com/" }
+    ]
+  }
+]
