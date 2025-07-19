@@ -1,7 +1,7 @@
 {
   "name": "progettino-finale-spec-frontend-back",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "build-schema": "node build-schema.js",
     "start": "npm run build-schema && node server.js",
